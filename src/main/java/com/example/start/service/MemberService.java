@@ -2,6 +2,7 @@ package com.example.start.service;
 
 import com.example.start.domain.Members;
 import com.example.start.repository.MemberRepository;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
